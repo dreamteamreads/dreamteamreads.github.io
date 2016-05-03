@@ -2,26 +2,19 @@
 layout: post
 title:  "Review: Wondrous Strange"
 date:   2016-04-13 17:25
-categories: jekyll
+categories:
 permalink: /reviews/130416
 author: 'Olivia'
+bookTitle: Wondrous Strange
+bookAuthor: Lesley Livingston
+bookPublisher: Harpercollins Publishers
+bookReleaseDate: September 2009
+bookSeries: Yes! (1/3)
+bookGrade: 3/5
+bookImg: http://placehold.it/150x250
 ---
-**Title**: Wondrous Strange
-
-**Author**: Lesley Livingston
-
-**Publisher**:  Harpercollins Publishers
-
-**Release date**: September 2009
-
-**Series**: Yes! (1/3)
-
-**Grade**: 3.5/5
-
-___
-
 I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't convinced. As I started the first few pages of the book, I wasn't convinced.
-
+<!--more-->
 An hour later, I missed my subway stop because I was so engrossed.
 
 The general premise of the story (and series) is that William Shakespeare’s A Midsummer Night’s Dream isn't fiction at all, and Faeries are very much alive and well in an almost parallel world accessible only through 4 gates, 3 of which have been locked and one which is guarded. The story revolves around Kelley, an aspiring actress living in New York City and Sonny, a human changeling (read: human baby stolen by Faeries).

@@ -7,8 +7,41 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
+
   <article class="post-content">
-    {{ content }}
+    <div class="review-header">
+      <div class="container-fluid">
+        <div class="col-xs-3">
+          <img class="img-responsive" src={{ page.bookImg }}>
+        </div>
+        <div class="col-xs-9 book-info">
+          <div class='row'>
+            <span class="book-info-metadata">Book Title:</span> {{ page.bookTitle }}
+          </div>
+          <div class='row'>
+            <span class="book-info-metadata">Author:</span> {{ page.bookAuthor }}
+          </div>
+          <div class='row'>
+            <span class="book-info-metadata">Publisher:</span> {{ page.bookPublisher }}
+          </div>
+          <div class='row'>
+            <span class="book-info-metadata">Release Date:</span> {{ page.bookReleaseDate }}
+          </div>
+          <div class='row'>
+            <span class="book-info-metadata">Series:</span> {{ page.bookSeries }}
+          </div>
+          <div class='row'>
+            <span class="book-info-metadata">Grade:</span> {{ page.bookGrade }}
+          </div>
+        </div>
+        <hr>
+      </div>
+
+
+      <div class="col-md-12">
+        {{ content }}
+      </div>
+    </div>
   </article>
 
   {% include comment.html %}

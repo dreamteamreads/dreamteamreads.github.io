@@ -34,6 +34,8 @@ markdown: kramdown
 
 host: 0.0.0.0
 
+excerpt_separator: <!--more-->
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
