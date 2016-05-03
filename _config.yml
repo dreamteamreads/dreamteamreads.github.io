@@ -14,10 +14,7 @@ profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
+disqus_shortname: dreamteamreads
 
 permalink: /archivers/:title
 gems:
