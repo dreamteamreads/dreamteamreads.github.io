@@ -3,15 +3,14 @@ layout: post
 title:  "Review: Wondrous Strange"
 date:   2016-04-13 17:25
 categories:
-permalink: /reviews/130416
 author: 'Olivia'
 bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: September 2009
 bookSeries: Yes! (1/3)
-bookGrade: 3/5
-bookImg: http://placehold.it/150x250
+bookGrade: 3
+bookImg: /assets/Bookcovers/WondrousStrange.jpg
 ---
 I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't convinced. As I started the first few pages of the book, I wasn't convinced.
 <!--more-->

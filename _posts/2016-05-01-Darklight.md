@@ -2,16 +2,14 @@
 layout: post
 title:  "Review: Darklight"
 date:   2016-04-29 17:00
-categories:
-permalink: /reviews/290416
 author: 'Olivia'
 bookTitle: Darklight
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: September 2009
 bookSeries: Yes! (2/3)
-bookGrade: 3.5/5
-bookImg: http://placehold.it/150x250
+bookGrade: 3
+bookImg: /assets/Bookcovers/Darklight.jpg
 ---
 
 Part two of this series (after the losing it in a grocery store and having to reorder from Amazon mishap). It was a bit of a hard read because I was in the middle of the book and the action when I lost it, so getting back into it when it finally arrived was a bit strange. Still, it was overall an enjoyable read!
