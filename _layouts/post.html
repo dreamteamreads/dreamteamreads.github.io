@@ -32,7 +32,7 @@ layout: default
               <span class="book-info-metadata">Series:</span> {{ page.bookSeries }}
             </div>
             <div class='row'>
-              <span class="book-info-metadata">Grade:</span> {% for i in (1...page.bookGrade) %} <span class="glyphicon glyphicon-star"></span> {% endfor %}{% for i in (page.bookGrade...4) %} <span class="glyphicon glyphicon-star-empty"></span> {% endfor %}
+              <span class="book-info-metadata">Grade:</span> {% include starRating.html %}
             </div>
           </div>
           <hr>
