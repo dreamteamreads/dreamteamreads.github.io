@@ -20,10 +20,10 @@ The general premise of the story (and series) is that William Shakespeare’s A 
 
 Though I clearly enjoyed the book enough to completely lose track of my surroundings (and in the process get laughed at by a man on the subway), I have to say that there are still parts of the story that bothered me.
 
-It felt as though often, characters did not pick up on cues that seemed painfully obvious and that would certainly elicit a follow up question at the very least in a real life situation. Though it makes sense to drag these facts on a little for plot purpose, it makes certain characters seem, to be frank, a little oblivious.
+It felt as though often, characters did not pick up on cues that seemed painfully obvious and that would, at the very least,  elicit a follow up question in a real life situation. Though I suppose it makes sense to drag these facts on a little for plot purposes, it makes certain characters seem, to be frank, a little oblivious.
 
 Speaking of the characters, there were quite a number, though the story really only focuses on a handful. I will say as far as strong female characters go, Kelley makes the cut. She doesn’t take orders from anyone and is quick to think on her feet. My only complaint would be that what she chose to believe and not believe seemed a little arbitrary at times. A fact I will gladly overlook to read more of her sassy moments.
 
-For all my nit picking, I really enjoyed this first book in Livingston's series, and have already purchased book 2 and 3 to continue with...
+For all my nit picking, I really enjoyed this first book in Livingston's series, and have already purchased book 2 and 3 to continue with.
 
 (*Closing note:* Fun fact, I realized after reading the first book that Livingstone is from my lovely city of Toronto. Always happy to see good content coming from Canadian authors!)

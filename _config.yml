@@ -4,13 +4,13 @@ url: "http://dreamteamreads.com"    # the protocol and hostname of your site, eg
 baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Read, Review, Repeat is out mantra. Bringing you book reviews, adventures and literary tidbits is our M.O.
 
 # Your information
 email: dreamteamreads@gmail.com
-author: O & S
+author: Olivia & Sarah
 avatar: "/assets/avatar.png"
-profile: One sentence introducing yourself.
+profile: Two book loving, wanderlusting, language learning Canadian girls who form one hell of a team. #DreamTeamReads
 #twitter_username: twitter_username
 #github_username:  github_username
 
@@ -20,7 +20,7 @@ permalink: pretty
 gems:
  - jekyll-paginate
  - jekyll-gist
- - jemoji
+# - jemoji
 
 # Build settings
 paginate: 5
