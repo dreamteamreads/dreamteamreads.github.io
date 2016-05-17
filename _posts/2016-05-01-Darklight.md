@@ -13,7 +13,9 @@ bookImg: /assets/Bookcovers/Darklight.jpg
 ---
 
 I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. It was a bit of a hard read, mostly because I was in the middle of the book (and the action) when I lost it, so getting back into it when it finally arrived was a bit difficult. Still, overall it was an enjoyable read!
+
 <!--more-->
+
 # Plot
 Sonny has returned to the Fairy realm to shut down fairies left from The Great Hunt. Meanwhile, Kelley is back in New York, learning to use her powers. A plot seems to be brewing for control over the realms.
 

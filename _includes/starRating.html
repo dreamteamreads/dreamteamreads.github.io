@@ -14,6 +14,7 @@
   {% assign partialGrade = post.bookGrade | minus:wholeGrade %}
   {% assign emptyGrade = 5 | minus:wholeGrade | minus: partialGrade | ciel %}
 {% endif %}
+<span class="text-nowrap">
 {% if wholeGrade %}
   {% for i in (1...wholeGrade) %}
     <i class="fa fa-star"></i>
@@ -25,3 +26,4 @@
     <i class="fa fa-star-o"></i>
   {% endfor %}
 {% endif %}
+</span>
