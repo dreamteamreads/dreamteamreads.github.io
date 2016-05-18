@@ -64,4 +64,4 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## Z
 
 ## Interested in having your book reviewed?
-See our read request policy [here](link)
+See our read request policy [here](/requests/)
