@@ -14,7 +14,8 @@ The focus of this blog is Young Adult and Middle Grade Fiction. Though we will r
 
 ### Our personal favourite sub genres
 Olivia: Fantasy, paranormal, dystopian, science fiction.
-Sarah:
+
+Sarah: Dystopian, contemporary, historical, light science fiction.
 
 ## Who will review my book?
 You are welcome to request either Sarah or Olivia for your review. Should you have no preference, we will decide ourselves based on our personal reading lists and interests.
