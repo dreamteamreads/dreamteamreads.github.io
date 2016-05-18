@@ -2,7 +2,6 @@
 layout: post
 title:  "Review: Wondrous Strange"
 date:   2016-04-13 17:25
-categories:
 author: 'Olivia'
 bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
