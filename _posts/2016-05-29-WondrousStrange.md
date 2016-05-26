@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Review: Wondrous Strange"
-date:   2016-04-13 17:25
-author: 'Olivia'
+date:   2016-05-29 17:25
+author: Olivia
 bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers
@@ -12,9 +12,9 @@ bookGrade: 3.5
 bookImg: /assets/Bookcovers/WondrousStrange.jpg
 ---
 I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't convinced. As I started the first few pages of the book, I wasn't convinced.
-<!--more-->
-An hour later, I missed my subway stop because I was so engrossed.
 
+An hour later, I missed my subway stop because I was so engrossed.
+<!--more-->
 The general premise of the story (and series) is that William Shakespeare’s A Midsummer Night’s Dream isn't fiction at all, and Faeries are very much alive and well in an almost parallel world accessible only through 4 gates, 3 of which have been locked and one which is guarded. The story revolves around Kelley, an aspiring actress living in New York City and Sonny, a human changeling (read: human baby stolen by Faeries).
 
 Though I clearly enjoyed the book enough to completely lose track of my surroundings (and in the process get laughed at by a man on the subway), I have to say that there are still parts of the story that bothered me.
@@ -25,4 +25,6 @@ Speaking of the characters, there were quite a number, though the story really o
 
 For all my nit picking, I really enjoyed this first book in Livingston's series, and have already purchased book 2 and 3 to continue with.
 
-(*Closing note:* Fun fact, I realized after reading the first book that Livingstone is from my lovely city of Toronto. Always happy to see good content coming from Canadian authors!)
+## Closing Notes
+
+Fun fact, I realized after reading the first book that Livingstone is from my lovely city of Toronto. Always happy to see good content coming from Canadian authors!

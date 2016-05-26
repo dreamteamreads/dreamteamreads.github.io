@@ -14,7 +14,7 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## C
 
 ## D
-[Darklight - Lesley Livingston (Wondrous Strange ; Book 2)](/2016/04/29/Darklight/)
+[Darklight - Lesley Livingston (Wondrous Strange ; Book 2)](/2016/05/29/WondrousStrange/)
 
 ## E
 
@@ -23,7 +23,6 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## G
 
 ## H
-[Hush Hush - Becca Fitzpatrick (Hush Hush ; Book 1)](/2016/05/16/review-hush-hush/)
 
 ## I
 
@@ -48,14 +47,14 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## S
 
 ## T
-[Tempestuous - Lesley Livingston (Wondrous Strange ; Book 3)](/2016/05/05/tempestuous/)
+[Tempestuous - Lesley Livingston (Wondrous Strange ; Book 3)](/2016/06/05/tempestuous/)
 
 ## U
 
 ## V
 
 ## W
-[Wondrous Strange - Lesley Livingston (Wondrous Strange ; Book 1)](/2016/04/13/WondrousStrange/)
+[Wondrous Strange - Lesley Livingston (Wondrous Strange ; Book 1)](/2016/05/29/WondrousStrange/)
 
 ## X
 

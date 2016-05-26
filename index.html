@@ -19,10 +19,11 @@ layout: default
           </div>
           <div class="col-md-8">
           {% endif %}
-            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }} | {{ post.author}}</div>
+            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }} | {{ post.author}}
+              <p>{% if post.bookTitle %}<span class="post-book-title">{{ post.bookTitle }}</span> by {{ post.bookAuthor }} | <span>{% include starRating.html %}</span><hr>{% endif %}</p>
+            </div>
 
             <div class="post-excerpt">
-              {% if post.bookTitle %}<span> {{ post.bookTitle }} by {{ post.bookAuthor }} | {% include starRating.html %} </span><hr>{% endif %}
               {{ post.excerpt }}
               <p>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>

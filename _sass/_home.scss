@@ -36,7 +36,7 @@
     	margin: 0;
     }
     .post-meta {
-    	font-size: $small-font-size;
+    	font-size: $base-font-size;
     	color: #666;
         margin: 0 20px;
         margin-bottom: .5em;
@@ -72,6 +72,10 @@
         }
         margin: 0 20px;
     }
+
+		.post-book-title {
+			font-weight: bolder;
+		}
     @include media-query($on-palm) {
 		padding: 10px;
     }
