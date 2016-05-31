@@ -7,11 +7,11 @@ bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: September 2009
-bookSeries: Yes! (1/3)
+bookSeries: Wondrous Strange series (1/3)
 bookGrade: 3.5
 bookImg: /assets/Bookcovers/WondrousStrange.jpg
 ---
-I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't convinced. As I started the first few pages of the book, I wasn't convinced.
+I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't enthused. As I started the first few pages of the book, I wasn't convinced.
 
 An hour later, I missed my subway stop because I was so engrossed.
 <!--more-->

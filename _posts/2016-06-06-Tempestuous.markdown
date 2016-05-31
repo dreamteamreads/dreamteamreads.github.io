@@ -7,7 +7,7 @@ bookTitle: Tempestuous
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: December 2010
-bookSeries: Yes! (3/3)
+bookSeries: Wondrous Strange (3/3)
 bookGrade: 3
 bookImg: \assets\Bookcovers\Tempestuous.jpg
 ---
@@ -16,7 +16,7 @@ I wanted to love this book. I so wanted to love this book. Instead, I found that
 
 <!--more-->
 
-# Things I liked
+## Things I liked
 The secondary characters in Livingston’s series are amazing. Either amazingly great, amazingly hilarious, amazingly pathetic, whatever it is, they are fantastic. The Fairy monarchs (in particular Mabh and Auberon) are great fun to watch interact. I do however wish we’d seen more Mabh, because her bad assery was always very much enjoyed and brought a light touch (insert joke about queen of air and darkness here) to the book. Auberon is also very fun to read with his gruff demeanor. Titania is a little bit too head in the clouds for my taste, but she serves her purpose. Gwynn however is a mystery right through to the end, which gives the plot a boost and helps make this book a 3 and not lower.
 
 I’ve mentioned him in past reviews for this series, but Bob doesn’t disappoint in this book. His quips add a comical undertone in what would otherwise be considered very serious moments and it balances out a lot of scenes.
@@ -29,7 +29,7 @@ One thing this series did very well (and this speaks to the publisher) is with t
 
 <sup>I mean they match, they are almost ethereal looking and that font is beautiful</sup>
 
-# Things I did not like
+## Things I did not like
 
 How the book dragged on. Though there was a lot more action, I kept thinking to myself that if even one character asked some of the seemingly obvious questions, everything could be resolved so quickly. I get that I have dramatic irony on my side (knowing what’s going on when the characters don’t), but come on.
 
