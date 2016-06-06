@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Review: Hush Hush"
+title: "Hush Hush"
 date: "2016-06-10 13:13:44 -0400"
 author: Olivia
+catagory: Review
 bookTitle: Hush Hush
 bookAuthor: Becca Fitzpatrick
 bookPublisher: Simon & Schuster

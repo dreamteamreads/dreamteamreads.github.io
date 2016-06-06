@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Review: Darklight"
+title:  "Darklight"
 date:   2016-06-03 17:00
 author: 'Olivia'
+catagory: Review
 bookTitle: Darklight
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers

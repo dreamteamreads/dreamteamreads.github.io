@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Review: Wondrous Strange"
+title:  "Wondrous Strange"
 date:   2016-05-29 17:25
 author: Olivia
+catagory: Review
 bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
 bookPublisher: Harpercollins Publishers

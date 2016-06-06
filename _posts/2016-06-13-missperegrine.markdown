@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Review: Miss Peregrine's Home for Peculiar Children"
+title: "Miss Peregrine's Home for Peculiar Children"
 date: 2016-06-13 13:13:44 -0400
 author: Olivia
+catagory: Review
 bookTitle: Miss Peregrine's Home for Peculiar Children
 bookAuthor: Ransom Riggs
 bookPublisher: Quirk Books

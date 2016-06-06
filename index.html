@@ -9,30 +9,50 @@ layout: default
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {% if post.bookImg %}
         <div class="container-fluid">
-          <div class="col-md-4">
-            <img class="img-responsive" src={{ post.bookImg }}>
-          </div>
-          <div class="col-md-8">
+          {% if post.catagory %}
+            <div class="text-uppercase post-type">
+              {{ post.catagory }}
+            </div>
           {% endif %}
-            <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }} | {{ post.author}}
-              <p>{% if post.bookTitle %}<span class="post-book-title">{{ post.bookTitle }}</span> by {{ post.bookAuthor }} | <span>{% include starRating.html %}</span><hr>{% endif %}</p>
-            </div>
-
-            <div class="post-excerpt">
-              {{ post.excerpt }}
-              <p>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
-              </p>
-            </div>
-          {% if post.bookImg %}
-          </div>
+          {% if post.bookTitle %}
+            <h2 class="post-title">
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div class="post-info">
+              {% if post.bookImg %}
+                <div class="col-md-4">
+                  <img class="thumbnail" src={{ post.bookImg }} />
+                </div>
+              {% endif %}
+              <div class="post-meta col-md-8 col-sm-12">
+                <div>
+                  <div>{{ post.date | date: "%b %-d, %Y" }} | {{ post.author }}</div>
+                  <span class="post-book-title ">{{ post.bookTitle }}</span> by {{ post.bookAuthor }} | {% include starRating.html %}
+                </div>
+                <div class="post-excerpt hidden-sm hidden-xs">
+                  {{ post.excerpt }}
+                  <p>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
+                  </p>
+                </div> <!-- sm/xs excerpt -->
+                <div class="col-sm-12 post-excerpt visible-sm-inline-block visible-xs-inline-block">
+                  {{ post.excerpt }}
+                  <p>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
+                  </p>
+                </div> <!-- excerpt column -->
+              </div> <!-- meta column-->
+            </div> <!--post-info-->
+            {% else %}
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </h2>
+              <div class"post-excerpt">
+                {{ post.excerpt }}
+              </div>
+            {% endif %}
         </div>
-        {% endif %}
       </li>
     {% endfor %}
   </ul>
