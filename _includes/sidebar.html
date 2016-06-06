@@ -3,16 +3,25 @@
   <div class="col-box-title name">{{ site.author }}</div>
   <p>{{ site.profile }}</p>
   <p class="contact">
+    {% if site.instagram_username %}
+    <a href="https://instagram.com/{{ site.instagram_username }}"><i class="fa fa-instagram"></i></a>
+    {% endif %}
     {% if site.github_username %}
     <a href="https://github.com/{{ site.github_username }}">GitHub</a>
     {% endif %}
     {% if site.twitter_username %}
-    <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+    <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter-square"></i></a>
     {% endif %}
     {% if site.email %}
-    <a href="mailto:{{ site.email }}">Email</a>
+    <a href="mailto:{{ site.email }}"><i class="fa fa-envelope-square"></i></a>
     {% endif %}
   </p>
+</div>
+
+<div class="col-box">
+  <!-- SnapWidget -->
+  <script src="https://snapwidget.com/js/snapwidget.js"></script>
+  <iframe src="https://snapwidget.com/embed/186416" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
 </div>
 
 <div class="col-box">
