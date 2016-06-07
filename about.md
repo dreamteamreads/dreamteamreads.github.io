@@ -25,8 +25,8 @@ We are two book loving, wanderlusting, language learning, Canadian girls who for
     </div>
     <div class="row">
       My name is Sarah & I’m a total bibliophile! I love that books allow me to step into other minds and realities – if I could have any superpower I would want to read minds! I am a busybody who dislikes idle time; I always carry a book on me because spare moments are best spent reading!
-
-      I’m also: multilingual (EN, FR, SP, NE & trying to learn JP), a runner, a travel-addict, an optimist, a vegetarian, and incredibly indecisive – maybe that’s why my reading preferences span from dystopian to contemporary, from mystery to light fantasy! ;)
+      <br>
+      I’m also: multilingual (EN, FR, SP, NE & trying to learn JP), a runner, a travel-addict, an optimist, a vegetarian, and incredibly indecisive – maybe that’s why my reading preferences are so varied!
     </div>
   </div>
 </div>
