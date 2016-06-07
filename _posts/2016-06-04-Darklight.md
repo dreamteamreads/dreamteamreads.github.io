@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Darklight"
-date:   2016-06-03 17:00
+date:   2016-06-04 17:00
 author: 'Olivia'
 catagory: Review
 bookTitle: Darklight
@@ -13,7 +13,13 @@ bookGrade: 2.5
 bookImg: /assets/Bookcovers/Darklight.jpg
 ---
 
-I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. It was a bit of a hard read, mostly because I was in the middle of the book (and the action) when I lost it, so getting back into it when it finally arrived was a bit difficult. Still, overall it was an enjoyable read!
+I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. Because of the fact that I was in the middle of the action when I lost my other copy of this book, getting back into it was a bit difficult. I debated restarting, but as it turns out, I am very lazy and so that didn't happen. You win some, you lose some. ON TO THE REVIEW!
+
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+  data-save-url="http://dreamteamreads.com/2016/06/03/Darklight/"
+  data-pocket-count="none"
+  data-pocket-align="left">Pocket</a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
 
 <!--more-->
 
