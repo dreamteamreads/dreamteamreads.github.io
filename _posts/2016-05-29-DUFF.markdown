@@ -11,7 +11,7 @@ bookPages: 277
 bookReleaseDate: 2011
 bookGrade: 4
 bookImg: /assets/Bookcovers/TheDUFF.jpg
-bookPlot: Seventeen-year-old Bianca Piper is cynical and loyal, and she doesn’t think she’s the prettiest of her friends by a long shot. She’s also way too smart to fall for the charms of man-slut and slimy school hottie Wesley Rush. And when he nicknames her “the Duff,” she throws her Coke in his face. But things aren’t so great at home right now, and Bianca ends up kissing Wesley. Worse, she likes it. Eager for escape, Bianca throws herself into a closeted enemies-with-benefits relationship with him, until it all goes horribly awry. It turns out Wesley isn’t such a bad listener, and his life is pretty screwed up, too… <br><sup>Adapted from &#58; GoodReads</sup>
+bookPlot: Seventeen-year-old Bianca Piper is cynical and loyal, and she doesn’t think she’s the prettiest of her friends by a long shot. She’s also way too smart to fall for the charms of man-slut and slimy school hottie Wesley Rush. And when he nicknames her “the Duff,” she throws her Coke in his face. But things aren’t so great at home right now, and Bianca ends up kissing Wesley. Worse, she likes it. Eager for escape, Bianca throws herself into a closeted enemies-with-benefits relationship with him. But, it turns out Wesley isn’t such a bad listener, and his life is pretty screwed up, too… <br><sup>Adapted from &#58; GoodReads</sup>
 
 ---
 
