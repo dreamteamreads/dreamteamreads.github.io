@@ -15,7 +15,7 @@ We are two book loving, wanderlusting, language learning, Canadian girls who for
       <img class="profile-pic" src="\assets\sitegraphics\Olivia340.png">
     </div>
     <div class="row profile-text">
-      Hello there folks! My name is Olivia and I am a Toronto based reader with a particular fondness for pretty book covers and Young Adult Fiction. When the two come together, it's magical. I love a good &#35;ThrowBackYA and make it my mission to build my library on a budget (&#35;Thriftay!). I also really like hashtags, so you will probably find one or two in my reviews. Also GIFS. Basically I'm stuck in the early 2010s.
+      Hello there folks! My name is Olivia and I am a Toronto based reader with a particular fondness for pretty book covers and Young Adult Fiction. When the two come together, it's magical. I love a good &#35;ThrowBackYA and make it my mission to build my library on a budget (&#35;ThriftYAY!). I also really like hashtags, so you will probably find one or two in my reviews. Also GIFS. Basically I'm stuck in the early 2010s.
     </div>
   </div>
 <div class="col-md-2"></div>
