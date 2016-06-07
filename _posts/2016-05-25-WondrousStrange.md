@@ -6,11 +6,13 @@ author: Olivia
 catagory: Review
 bookTitle: Wondrous Strange
 bookAuthor: Lesley Livingston
+bookPages: 327
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: September 2009
 bookSeries: Wondrous Strange series (1/3)
 bookGrade: 3.5
 bookImg: /assets/Bookcovers/WondrousStrange.jpg
+bookPlot: Seventeen-year-old actress Kelley Winslow thinks that playing the role of the fairy queen Titiana in a production of Shakespeare's Midsummer Night's Dream could be her lucky break - if she can pull it off. But when she meets the handsome Sonny Flannery, Kelley has to face the shocking truth that the world of Faeries is all too real - and that she an unwitting part of it. <br> <sup>Adapted from &#58; GoodReads</sup>
 ---
 I’m going to be honest. I only picked up this book because of the cover. When I read the back description, I wasn't enthused. As I started the first few pages of the book, I wasn't convinced.
 

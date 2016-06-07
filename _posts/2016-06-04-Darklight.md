@@ -6,11 +6,13 @@ author: 'Olivia'
 catagory: Review
 bookTitle: Darklight
 bookAuthor: Lesley Livingston
+bookPages: 310
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: September 2009
 bookSeries: Wondrous Strange (2/3)
 bookGrade: 2.5
 bookImg: /assets/Bookcovers/Darklight.jpg
+bookPlot: Last autumn, Kelley Winslow learned she was a Faerie princess, fell in love with changeling guard Sonny Flannery, and saved the mortal realm from the Wild Hunt. Now Kelley is stuck in NYC missing Sonny, who has been forced back to the Otherworld and into a deadly game of cat and mouse with the remaining Hunters. That is until an ancient, hidden magick begins stirring, and a dangerous new enemy emerges, willing to risk it all to steal the power. <br> <sup>Adapted from &#58; Goodreads</sup>
 ---
 
 I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. Because of the fact that I was in the middle of the action when I lost my first copy of this book, getting back into it was a bit difficult. I debated restarting, but as it turns out, I am very lazy and so that didn't happen. I guess you really do win some and you really do lose some... ON TO THE REVIEW!
