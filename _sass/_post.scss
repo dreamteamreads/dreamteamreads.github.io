@@ -28,10 +28,10 @@
     }
     .post-content {
       .spoiler {
-        color: black;
-        background-color: black;
+        color: #555;
+        background-color: #555;
         &:hover{
-          background-color:#FFF;
+          background-color:#fafafa;
         }
       }
       .reviewupdate {
@@ -70,8 +70,8 @@
                 font-size: 15px;
                 color: #999999;
             }
-            .book-info-post-head {
-                font-weight: bold;
+            .book-info-title-head {
+                font-size: 22px;
             }
         }
         color: #333;

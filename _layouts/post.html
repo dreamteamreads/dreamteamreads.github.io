@@ -17,7 +17,7 @@ layout: default
           </div>
           <div class="col-md-7 book-info">
             <div class='row'>
-              <span class="book-info-metadata">{{ page.bookTitle }} by {{page.bookAuthor}}</span>
+              <span class="book-info-title-head">{{ page.bookTitle }} by {{page.bookAuthor}}</span>
             </div>
             <div class='row'>
               <span class="book-info-metadata">Publisher:</span> {{ page.bookPublisher }}
@@ -32,7 +32,7 @@ layout: default
               <span class="book-info-metadata">Series:</span> {{ page.bookSeries }}
             </div>
             <div class='row'>
-              <span class="book-info-metadata">Grade:</span> {% include starRating.html %}
+              <span class="book-info-metadata">Rating:</span> {% include starRating.html %}
             </div>
             <div class='row'>
               <span class="book-info-metadata">Plot Summary:</span> <span class="book-info-summary">{{ page.bookPlot }}</span>
