@@ -6,22 +6,18 @@ author: Olivia
 catagory: Review
 bookTitle: Miss Peregrine's Home for Peculiar Children
 bookAuthor: Ransom Riggs
+bookPages: 352
 bookPublisher: Quirk Books
 bookReleaseDate: June 2011
 bookSeries: Miss Peregrine's series (1/3)
 bookGrade: 3.5
 bookImg: \assets\Bookcovers\missperegrine.jpg
+bookPlot: A horrific family tragedy sets sixteen-year-old Jacob journeying to a remote island off the coast of Wales, where he discovers the crumbling ruins of Miss Peregrine’s Home for Peculiar Children. As Jacob explores its abandoned bedrooms and hallways, it becomes clear that the children were more than just peculiar. And somehow—impossible though it seems—they may still be alive.<br><sup>Adapted from &#58; GoodReads</sup>
 ---
 
 When this book first came out, I remember seeing it everywhere and being very drawn to the cover. The eerie aged photo combined with that beautiful calligraphy really made me swoon. But I wasn't really reading then because things in my life were hectic, and so I forgot about it. Then, a couple weeks ago, I saw a movie trailer and for some reason the name was really familiar. I looked it up and sure enough, this beautiful cover pops up on my google search. A little sleuthing told me that not only were they adapting this book into a movie, but 2 book sequels had also been released. That was when I decided I needed to hop on this bandwagon and see what all the fuss was about.
 
 <!--more-->
-
-## Plot
-
->"A horrific family tragedy sets sixteen-year-old Jacob journeying to a remote island off the coast of Wales, where he discovers the crumbling ruins of Miss Peregrine’s Home for Peculiar Children. As Jacob explores its abandoned bedrooms and hallways, it becomes clear that the children were more than just peculiar. They may have been dangerous. They may have been quarantined on a deserted island for good reason. And somehow—impossible though it seems—they may still be alive."
->
-> <sup>Plot summary source: GoodReads.com</sup>
 
 ## The Good and the Bad
 

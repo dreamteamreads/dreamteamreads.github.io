@@ -6,11 +6,13 @@ catagory: Review
 date: "2016-06-06 09:19:07 -0400"
 bookTitle: Tempestuous
 bookAuthor: Lesley Livingston
+bookPages: 361
 bookPublisher: Harpercollins Publishers
 bookReleaseDate: December 2010
 bookSeries: Wondrous Strange (3/3)
 bookGrade: 3
 bookImg: \assets\Bookcovers\Tempestuous.jpg
+bookPlot: I don't love Sonny Flannery. That's the lie Kelley Winslow tells to protect the boy she loves from a power he doesn't know he possesses. To get Sonny back, she's got to find out who's after his magick and how to use her own. She's got to uncover who's recruiting Janus Guards to murderously hunt innocent Faerie, and she's got to do it without getting distracted by the Fenrys Wolf, whose legendary heart of stone seems to melt whenever he's around Kelley. <br><sup>Adapted from &#58; GoodReads</sup>
 ---
 
 I wanted to love this book. I really, really wanted to love this book. Instead, I found myself reading it only so that I could finish the series, not because I was really all that excited about it. However, I think I have figured out why, and it turns out I can't blame Lesley Livingston at all. Let’s break it down.
