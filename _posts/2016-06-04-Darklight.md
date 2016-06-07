@@ -13,7 +13,7 @@ bookGrade: 2.5
 bookImg: /assets/Bookcovers/Darklight.jpg
 ---
 
-I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. Because of the fact that I was in the middle of the action when I lost my other copy of this book, getting back into it was a bit difficult. I debated restarting, but as it turns out, I am very lazy and so that didn't happen. You win some, you lose some. ON TO THE REVIEW!
+I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. Because of the fact that I was in the middle of the action when I lost my first copy of this book, getting back into it was a bit difficult. I debated restarting, but as it turns out, I am very lazy and so that didn't happen. I guess you really do win some and you really do lose some... ON TO THE REVIEW!
 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
   data-save-url="http://dreamteamreads.com/2016/06/03/Darklight/"
@@ -23,23 +23,24 @@ I finally finished part two of this series after the whole "losing it in a groce
 
 <!--more-->
 
-## Plot
-Sonny has returned to the Fairy realm to shut down fairies left from The Great Hunt. Meanwhile, Kelley is back in New York, learning to use her powers. A plot seems to be brewing for control over the realms.
+## First Impressions
+I love a good action sequence (growing up with Harry Potter will do that to a person), so I was happy to see that Darklight really delivered on the action. Some seemed a little dragged out, but we also get to see characters facing new and exciting challenges. The ending of the book (without giving anything away) broke my heart in the most unnecessary way, but I am excited to see how it ends in the final book.
 
-There was a lot more action in this one than in the first book which I enjoyed. Much like the first one, there was a final fight scene, but there were also a couple strewn throughout. The ending of the book (without giving anything away) broke my heart in the most unnecessary way, but I am excited to see how it ends in the final book.
+## Characters (i.e. the real reason Olivia reads)
+Kelley gets some real chops in this one and has to face many difficult decisions throughout the story. Though a touch too melodramatic at times, I will cut her some slack; she is still acclimatizing to the world she now belongs to. Anyone would be a little frantic. She does seem to be picking up on things much quicker in this one (except the moment when she received the note. Who the note came from was **painfully obvious**)
 
-## Characters
-Kelley gets some real chops in this one and has to face a couple difficult decisions throughout the story. Though a touch too melodramatic at times, I will cut her some slack as she is still acclimatizing to the world she now belongs to. I guess anyone would be a little frantic. She does seem to be picking up on things much quicker in this one (except the moment with the note which was **painfully obvious**, Kelley!)
+But really, it is Sonny who steals the show in this book. His character develops in a **big** way (hint: he may be putting his Firecracker on much too high a pedestal) and his chapters were all a rollercoaster of emotions. One moment, he's doing great, the next he's a mess. Which worked out, because I was right there with him.
 
-But really, it is Sonny who steals the show in this book. His character develops in a very interesting way (hint: he may be putting his Firecracker on much too high a pedestal) and his chapters were all a rollercoaster of emotions.
+<p align="center">
 
-![I'm in a glass case of emotion](\assets\gifs\glasscaseemotion.gif)
+<img src="\assets\gifs\glasscaseemotion.gif" alt="I'm in a glass case of emotion"></p>
 
-<sup>Me, during every chapter involving Sonny.</sup>
+<p align="center"><i>Me, reading any chapter involving Sonny.</i></p>
 
-Another character I was glad to see back was Puck a.k.a. Bob the Boucca. His character is the perfect mood lightener.
 
-We also get to see a lot more interaction between the monarchs in this one. Two in particular are really fun to watch together (they might not be who you think!) and the plot is definitely thickening there. (Is it bad that I ship the monarchs more than the main characters? They really need more page time)
+We also get to see a lot more interaction between the monarchs in this one. Two in particular are reeeeeally fun to watch together (they might not be who you think!). In fact, it's gotten to the point where I feel like I ship the monarchs more than the main characters. They really need more page time, because they are sarcastic and sassy af. Puck (a.k.a. Bob the Boucca) has nothing on the monarchs, and that's saying something because he is the perfect mood lightener when things seem their worst.
 
 ## Closing notes
-This book really delivers on secondary characters while advancing the plot in a new interesting way. While I could do without the excruciating obliviousness/ignorance of certain characters, I still think that overall the book is worth a read. The story ends quite abruptly, leading me to wonder what is going to happen next!
+This book really delivers on secondary characters while advancing the plot in a new, interesting way. While I could do without the excruciating obliviousness/ignorance of certain characters, I still think that overall the book is worth a read. I also wonder if I may have enjoyed the book more had I been able to read it when I was in the height of my excitement about it. Alas, such was not the case.
+
+Do you agree with my rating? Let me know in the comments below!

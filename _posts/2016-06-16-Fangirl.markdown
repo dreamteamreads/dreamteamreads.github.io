@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fangirl"
-date: "2016-06-19 14:19:51 -0400"
+date: "2016-06-16 14:19:51 -0400"
 author: Olivia
 catagory: Review
 bookTitle: Fangirl
