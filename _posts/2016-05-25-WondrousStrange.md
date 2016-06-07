@@ -16,7 +16,7 @@ I’m going to be honest. I only picked up this book because of the cover. When 
 
 An hour later, I missed my subway stop because I was so into it.
 <!--more-->
-The general premise of the story (and series) is that William Shakespeare’s A Midsummer Night’s Dream isn't fiction at all, and Faeries are very much alive and well in an almost parallel world accessible only through 4 gates, 3 of which have been locked and one which is guarded. The story revolves around Kelley, an aspiring actress living in New York City and Sonny, a human changeling (read: human baby stolen by Faeries).
+The general premise of the story (and series) is that William Shakespeare’s A Midsummer Night’s Dream isn't fiction at all, and Faeries are very much alive and well in an almost parallel world accessible only through 4 gates, 3 of which have been locked and one of which is guarded. The story revolves around Kelley, an aspiring actress living in New York City and Sonny, a human changeling (read: human baby stolen by Faeries).
 
 Though I clearly enjoyed the book enough to completely lose track of my surroundings (and in the process get laughed at by a man on the subway), there are still parts of the story that bothered me.
 
