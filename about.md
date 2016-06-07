@@ -24,7 +24,9 @@ We are two book loving, wanderlusting, language learning, Canadian girls who for
       <img class="profile-pic" src="\assets\sitegraphics\Sarah340.png">
     </div>
     <div class="row">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      My name is Sarah & I’m a total bibliophile! I love that books allow me to step into other minds and realities – if I could have any superpower I would want to read minds! I am a busybody who dislikes idle time; I always carry a book on me because spare moments are best spent reading!
+
+      I’m also: multilingual (EN, FR, SP, NE & trying to learn JP), a runner, a travel-addict, an optimist, a vegetarian, and incredibly indecisive – maybe that’s why my reading preferences span from dystopian to contemporary, from mystery to light fantasy! ;)
     </div>
   </div>
 </div>
