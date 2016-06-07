@@ -1,23 +1,42 @@
 ---
 layout: post
-title: "The Duff"
-date: "2016-06-19 14:19:51 -0400"
-author: Olivia
+title: "The DUFF"
+date: "2016-05-29 14:19:51 -0400"
+author: Sarah
 catagory: Review
-bookTitle: Fangirl
-bookAuthor: Rainbow Rowell
-bookPublisher: St. Martin's Press
-bookReleaseDate: September 2013
+bookTitle: The DUFF
+bookAuthor: Kody Keplinger
+bookPublisher: Poppy (Little, Brown and Company)
+bookPages: 277
+bookReleaseDate: 2011
 bookGrade: 4
-bookImg: \assets\Bookcovers\fangirl.jpg
-bookPlot: 
+bookImg: /assets/Bookcovers/TheDUFF.jpg
+bookPlot: Seventeen-year-old Bianca Piper is cynical and loyal, and she doesn’t think she’s the prettiest of her friends by a long shot. She’s also way too smart to fall for the charms of man-slut and slimy school hottie Wesley Rush. And when he nicknames her “the Duff,” she throws her Coke in his face. But things aren’t so great at home right now, and Bianca ends up kissing Wesley. Worse, she likes it. Eager for escape, Bianca throws herself into a closeted enemies-with-benefits relationship with him, until it all goes horribly awry. It turns out Wesley isn’t such a bad listener, and his life is pretty screwed up, too… <br><sup>Adapted from &#58; GoodReads</sup>
+
 ---
 
-I am a fangirl.
-
-When I was 11 years old, I discovered the Harry Potter discussion boards and it was all downhill from there. Fanfiction, RP&#42;, making graphics for my favourite OTPs: I was hooked and I was hooked hard. The list of fandoms that I was into only grew as my friend list did, mostly because we would constantly be sending each other recs. So when I found out that this book existed, I knew that I *had* to read it.
+The delivery of the DUFF is its best quality, the voice of Bianca is a good balance of sassy, pessimistic and real; a quick-read that is entertaining the whole way through – a recommended read for an afternoon at the cottage or poolside!
 
 <!--more-->
 
+## Book Breakdown
 
-<sup>&#42;For those who don’t know, RP stands for Role Play. In this context, it is when 2 or more people write scenes together online. Each writer is responsible for at least 1 character, and the idea is that the scene is built together, but you never know where your writing partner is going to go with it. Writers will often plot the general outline of where it’s going, but everything in between is in the moment and spontaneous. Though I personally find that RP isn’t as popular as it once was, you can still find groups on the internet. Tumblr still has a decently large community for it.</sup>
+The DUFF is a contemporary piece of YA fiction that explores themes of self-identity, romantic relationships, sex, friendship, functional and dysfunctional families (and various coping mechanisms associated with the latter) and, of course, the unavoidable drama of high school. Best classified, I think, as a humorous teen drama, with all the requisite endearing, upsetting, tantalizing, amusing, frustrating moments – including, to my extreme delight, two literature-inspired revelations based on the Scarlet Letter and Wuthering Heights.
+
+I picked up The DUFF on a whim, after having seen the movie, an uncommon occurrence for me since usually, I insist on reading the book before seeing the movie. A significant portion of the joy I find in reading it derived from discovering the plot, experiencing the character development, the plot twists and the big reveals; if I know the ending or am familiar with the story, it loses something for me. It became apparent to me after just the first 30 pages that this was not going to be a problem in this case – the book and movie are two very distinct experiences. Where the movie is mostly light-hearted, the book is slightly darker but also more engaging; each medium has a different approach to the story and correspondingly has its own surprises! The plot is fast-paced, especially at the beginning; a lack of introduction threw me into the story such that I felt an overwhelming urge to read further to catch up on what was going on.
+
+Bianca’s narrative voice comes off as a great blend of snarky, cynical and funny (be warned, there are some, admittedly fitting, expletives). Her strong sense of loyalty is as admirable as her sassiness is entertaining! Wesley is a bit of a mysterious character, but little by little, his real self emerges from beneath his Casanova façade. Overall, they work really well together; their dynamic is a typical display of the age-old theory that there exists a very fine line between love and hate! Though some of the dialogue does seem cheesy, other bits come off as quite sincere, and overall the text is enjoyable.
+
+<p align="center"><img src="\assets\quotes\theDUFF_quote.jpg" alt="the DUFF quote" height="300" width="300"></p>
+
+## In my Opinion
+
+Keplinger has a good knack for knowing when to reveal what, keeping the reader always forestalling what will happen next. While the plotline is, admittedly, predictable, it is delivered in such a well-crafted way that it becomes enjoyably anticipated. Bianca’s character is mix of volatile and vulnerable, something all readers can identify with. I also surprisingly enjoyed the family troubles both Wesley and Bianca were grappling with, I found those plotlines made the novel more complex than your average high school chick-lit story.
+
+My only real complaint is the plotline involving Toby. SPOILER: <span class="spoiler">I know he’s supposed to be the dream-come-true prince in contrast to Wesley’s devilish character, but I find his character feels forced, too artificial somehow. Maybe that was the point, to have his incompatibility with Bianca juxtaposed with the natural attraction between Bianca and Wesley, but I can’t help but feel the story would have been more compelling had he been a more believable character.</span>
+
+## What I Learned
+
+Originally drafted when Keplinger was in high school, the DUFF was inspired by her own encounter with the term “duff” and while her claim that “everyone is the DUFF sometimes” seems a bit far-fetched to me (some people are just prettier than others…but even then, beauty is very subjective), I do think that the novel delivers an important message about the power that words (terms like duff, loser, slut, and others that are negatively propagated by society) can have in destroying self-confidence and the power of friends, self-acceptance and perspective in rebuilding it.
+
+I guess the real moral of the story for me was: “Execute caution when accepting or appointing labels to people – labels are limiting and people are complex, don’t reduce anyone to a label.”
