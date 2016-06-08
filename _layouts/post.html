@@ -12,10 +12,10 @@ layout: default
     {% if page.bookTitle %}
       <div class="review-header">
         <div class="container-fluid">
-          <div class="col-md-5">
+          <div class="col-md-5 col-md-offset-0 col-sm-6 col-sm-offset-3">
             <img class="img-responsive thumbnail" src={{ page.bookImg }}>
           </div>
-          <div class="col-md-7 book-info">
+          <div class="col-md-7 col-sm-12 book-info">
             <div class='row'>
               <span class="book-info-title-head">{{ page.bookTitle }} by {{page.bookAuthor}}</span>
             </div>
@@ -28,9 +28,11 @@ layout: default
             <div class='row'>
               <span class="book-info-metadata">Release Date:</span> {{ page.bookReleaseDate }}
             </div>
-            <div class='row'>
-              <span class="book-info-metadata">Series:</span> {{ page.bookSeries }}
-            </div>
+            {% if page.bookSeries %}
+              <div class='row'>
+                <span class="book-info-metadata">Series:</span> {{ page.bookSeries }}
+              </div>
+            {% endif %}
             <div class='row'>
               <span class="book-info-metadata">Rating:</span> {% include starRating.html %}
             </div>
