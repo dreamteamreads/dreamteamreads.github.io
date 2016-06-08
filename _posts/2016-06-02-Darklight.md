@@ -17,12 +17,6 @@ bookPlot: Last autumn, Kelley Winslow learned she was a Faerie princess, fell in
 
 I finally finished part two of this series after the whole "losing it in a grocery store and having to reorder from Amazon" mishap. Because of the fact that I was in the middle of the action when I lost my first copy of this book, getting back into it was a bit difficult. I debated restarting, but as it turns out, I am very lazy and so that didn't happen. I guess you really do win some and you really do lose some... ON TO THE REVIEW!
 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-  data-save-url="http://dreamteamreads.com/2016/06/03/Darklight/"
-  data-pocket-count="none"
-  data-pocket-align="left">Pocket</a>
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
-
 <!--more-->
 
 ## First Impressions
