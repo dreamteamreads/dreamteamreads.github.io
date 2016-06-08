@@ -12,6 +12,7 @@ I feel that when it comes to Fan Fiction, there are 3 distinct schools of though
 2. It is a lesser form of literature that I am above.
 3. What the shit is FF?
 
+<!--more-->
 
 If you are part of category 3, allow me to explain. Fan Fiction, as the name suggests, is any story that takes place in an existing universe (ex. Harry Potter) that is written by someone other than the original author. Fans will often say that they belong to a fandom (I think fandom = fan kingdom, but I'm just guessing here) and often will write in that fandom.
 
