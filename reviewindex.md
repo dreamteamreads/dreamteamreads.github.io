@@ -14,7 +14,9 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## C
 
 ## D
-[Darklight - Lesley Livingston (Wondrous Strange ; Book 2)](/2016/05/29/WondrousStrange/)
+[Darklight - Lesley Livingston (Wondrous Strange ; Book 2)](http://dreamteamreads.com/2016/06/02/Darklight/)
+
+[Duff, The - Kody Keplinger](http://dreamteamreads.com/2016/06/04/DUFF/)
 
 ## E
 
@@ -23,7 +25,7 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## G
 
 ## H
-
+[Hush Hush - Becca Fitzpatrick (Hush Hush Series ; Book 1)](http://dreamteamreads.com/2016/06/08/Hush-hush/)
 ## I
 
 ## J
@@ -47,14 +49,14 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## S
 
 ## T
-[Tempestuous - Lesley Livingston (Wondrous Strange ; Book 3)](/2016/06/05/tempestuous/)
+[Tempestuous - Lesley Livingston (Wondrous Strange ; Book 3)](http://dreamteamreads.com/2016/06/06/Tempestuous/)
 
 ## U
 
 ## V
 
 ## W
-[Wondrous Strange - Lesley Livingston (Wondrous Strange ; Book 1)](/2016/05/29/WondrousStrange/)
+[Wondrous Strange - Lesley Livingston (Wondrous Strange ; Book 1)](http://dreamteamreads.com/2016/05/25/WondrousStrange/)
 
 ## X
 
