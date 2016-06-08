@@ -21,11 +21,11 @@ layout: default
             </h2>
             <div class="post-info">
               {% if post.bookImg %}
-                <div class="col-md-4">
+                <div class="col-md-4 col-md-offset-0 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2">
                   <img class="thumbnail" src={{ post.bookImg }} />
                 </div>
               {% endif %}
-              <div class="post-meta col-md-8 col-sm-12">
+              <div class="post-meta col-md-8 col-sm-12 col-xs-12">
                 <div>
                   <div>{{ post.date | date: "%b %-d, %Y" }} | {{ post.author }}</div>
                   <span class="post-book-title ">{{ post.bookTitle }}</span> by {{ post.bookAuthor }} | {% include starRating.html %}
