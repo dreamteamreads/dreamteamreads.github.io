@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The DUFF"
-date: "2016-05-29 14:19:51 -0400"
+date: "2016-06-04 14:19:51 -0400"
 author: Sarah
 catagory: Review
 bookTitle: The DUFF

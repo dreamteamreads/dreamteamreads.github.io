@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Miss Peregrine's Home for Peculiar Children"
-date: 2016-06-11 15:18:44 -0400
+date: 2016-06-12 15:18:44 -0400
 author: Olivia
 catagory: Review
 bookTitle: Miss Peregrine's Home for Peculiar Children
