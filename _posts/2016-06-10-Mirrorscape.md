@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mirrorscape"
-date:   2016-06-10 17:25
+date:   2016-06-10 09:25
 author: Sarah
 catagory: Review
 bookTitle: Mirrorscape
@@ -11,9 +11,8 @@ bookPublisher: Egmont
 bookReleaseDate: 2007
 bookSeries: The Mirrorscape (Book 1/3)
 bookGrade: 2.5
-bookImg: /assets/bookcovers/Mirrorscape.jpg
-bookPlot: Melkin Womper is thrilled to escape his dull future as a weaver and develop his artistic talent when he’s apprenticed to Ambrosius Blenk, one of Vlam’s most famous masters. Mel is especially excited by the colors that he’ll be able to use, since color is a very expensive Pleasure, strictly controlled. When Mel and his new friends, Ludo and Wren, inadvertently stumble into a battle between the Fifth Mystery and the Rainbow Rebellion, an underground band fighting to make Pleasures affordable for all, the trio must step through Blenk’s paintings into the Mirrorscape. In this alternative world, the friends encounter monsters, mazes, talking houses, angels, and more.
- <br> <sup>Adapted from&#58; GoodReads</sup>
+bookImg: /assets/bookcovers/Mirrorscape.png
+bookPlot: Melkin Womper is thrilled to escape his dull future as a weaver and develop his artistic talent when he’s apprenticed to Ambrosius Blenk, one of Vlam’s most famous masters. Mel is especially excited by the colors that he’ll be able to use, since color is a very expensive Pleasure, strictly controlled. When Mel and his new friends, Ludo and Wren, inadvertently stumble into a battle between the Fifth Mystery and the Rainbow Rebellion, an underground band fighting to make Pleasures affordable for all, the trio must step through Blenk’s paintings into the Mirrorscape. In this alternative world, the friends encounter monsters, mazes, talking houses, angels, and more. <br> <sup>Adapted from&#58; GoodReads</sup>
 ---
 A highly original adventure-fantasy novel; Wilks brings readers through a magical journey full of art, creativity and imagination, pleasing to art aficionados and less experienced art appreciators alike.
 
