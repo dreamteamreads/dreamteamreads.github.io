@@ -35,7 +35,7 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## L
 
 ## M
-
+[Miss Peregrine's Home for Peculiar Children (Miss Peregrine Series ; Book 1)](http://dreamteamreads.com/2016/06/12/missperegrine/)
 ## N
 
 ## O
