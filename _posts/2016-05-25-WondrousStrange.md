@@ -24,7 +24,7 @@ Though I clearly enjoyed the book enough to completely lose track of my surround
 
 The biggest thing was that often, characters did not pick up on cues that seemed painfully obvious. In day to day life, these things would have elicited a follow up question, at the very least. I get that it makes sense for plot purposes to drag big reveals out a little, but it made certain characters seem pretty oblivious. Also, (SPOILER): <span class="spoiler">if Tyff is a faerie, wouldn't she realize what Lucky is from the get go? You'd think she'd at the very least sense the magic or something</span>.
 
-<p align="center"><img src="\assets\gifs\jenhuh.gif" alt="Huh"></p>
+![Huh](\assets\gifs\jenhuh.gif){: .img-center }
 
 Speaking of characters, there were quite a number in this book, though the story really only focuses on a handful. Kelley does a pretty good job of filling the shoes of a strong female character. She doesn’t take orders from anyone, and is quick to think on her feet. My only complaint would be that what she chose to believe and not believe seemed a little arbitrary at times. I will however overlook this in exchange for more of her sassy moments. They are pretty fantastic and I really hope there are more in future books.
 

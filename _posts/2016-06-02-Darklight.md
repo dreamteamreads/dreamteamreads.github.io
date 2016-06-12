@@ -27,12 +27,8 @@ Kelley gets some real chops in this one and has to face many difficult decisions
 
 But really, it is Sonny who steals the show in this book. His character develops in a **big** way (hint: he may be putting his Firecracker on much too high a pedestal) and his chapters were all a rollercoaster of emotions. One moment, he's doing great, the next he's a mess. Which worked out, because I was right there with him.
 
-<p align="center">
-
-<img src="\assets\gifs\glasscaseemotion.gif" alt="I'm in a glass case of emotion"></p>
-
-<p align="center"><i>Me, reading any chapter involving Sonny.</i></p>
-
+![I'm in a glass case of emotion](\assets\gifs\glasscaseemotion.gif){: .img-center }
+*Me, reading any chapter involving Sonny.*{: .img-caption-center }
 
 We also get to see a lot more interaction between the monarchs in this one. Two in particular are reeeeeally fun to watch together (they might not be who you think!). In fact, it's gotten to the point where I feel like I ship the monarchs more than the main characters. They really need more page time, because they are sarcastic and sassy af. Puck (a.k.a. Bob the Boucca) has nothing on the monarchs, and that's saying something because he is the perfect mood lightener when things seem their worst.
 

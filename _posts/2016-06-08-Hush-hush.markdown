@@ -19,7 +19,7 @@ Okay folks, strap yourselves in because I have a lot of feelings about this book
 
 I read this book 4 days ago and after I finished it, I sat in my chair, like this, for a good 10 minutes:
 
-<p align="center"> <img src="\assets\gifs\amusedstefon.gif" alt="Me, having an inner meltdown"></p>
+![Me, having an inner meltdown](\assets\gifs\amusedstefon.gif){: .img-center }
 
 I then rushed off to write up my review, rating the book a **4.5**. I decided to wait a little before putting this post up and have now come back to it. Having taken time to better digest everything, I can admit that there are some issues, and I've edited my review to discuss them.
 
@@ -34,10 +34,8 @@ Now I know what you might be thinking. Olivia, are you reviewing Twilight? And t
 
 I don't want to give away too much pertaining to the plot itself, because I want anyone reading this book to experience it fresh the first time they read it, but what I will say is that the action starts up very quickly, and there aren't a lot of stagnant moments. The end action sequence in particular had my mind going a mile a minute and I was *physically exhausted* after reading it. I just kept asking wtf was going on, and I had to force myself to read slower because I was missing details. *Hush Hush* also has a lot of are REALLY stomach twistingly awkward and/or amazing moments (SPOILER: <span class="spoiler">For instance, when Nora goes to interrogate Patch's coworkers in disguise and finds out he's working on his night off. The entire scene is perfection.</span> The sexual tension in this book is pretty intense. I kind of hate myself a little for even saying that, but hey, someone has to say it.
 
-<p align="center"> <img src="\assets\gifs\Hayleywink.gif" alt="Sorry not Sorry"></p>
-
-
-<p align="center"><i>#SorryNotSorry?</i></p>
+![Sorry not Sorry](\assets\gifs\Hayleywink.gif){: .img-center }
+*#SorryNotSorry*{: .img-caption-center }
 
 ## Characters
 This section could go forever if I let it, so I will try to be brief. As stated above, the two main characters of this novel are Nora and Patch. Nora, for all her "innocence" and Bella like behaviour, delivers a couple really great one liners and quips. She does make some questionable decisions, but she is only 16, so I mean, I can't really fault her for that. I made some pretty terrible judgement calls at 16 (she said, as if she were a wise soul. Don't let me fool you folks, I am really not that wise! <sup>Or that old...</sup>)

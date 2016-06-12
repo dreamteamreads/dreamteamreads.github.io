@@ -28,16 +28,14 @@ There is also a loooot more action in this one. The end book almost felt like 2 
 
 One thing this series did very well (and this speaks to the publishing side of things) is create beautiful books. I know you’re not supposed to judge a book by its cover, but that’s pretty much exactly what I did here. It screams YA in all the right ways and really caught my eye when I first saw them.
 
-<p align="center"> <img src="\assets\Bookcovers\WondrousStrangeSeries.png" alt="Wondrous Strange Series"></p>
-
-
-<p align="center"><i>I mean they match, they are almost ethereal looking and that font is beautiful.</i></p>
+![Wondrous Strange Series](\assets\Bookcovers\WondrousStrangeSeries.png){: .img-center }
+*I mean they match, they are almost ethereal looking and that font is beautiful.*{: .img-caption-center }
 
 ## Things I did not like
 
 Because there were almost 2 plots in this book, the book seemed to drag on at times. Though there was a lot more action, I kept thinking to myself that if even one character asked some of the seemingly obvious questions, everything could be resolved so quickly. I get that I have dramatic irony on my side (knowing what’s going on when the characters don’t), but come on folks. Communication. It's important.
 
-<p align="center"> <img src="\assets\gifs\confusedcomputer.gif" alt="I'm honestly more confused than mad"></p>
+![I'm honestly more confused than mad](\assets\gifs\confusedcomputer.gif){: .img-center }
 
 Repetitiveness. This kind of ties in to the “why aren’t you asking the right questions” thing, but sometimes characters would really dwell on stuff that I just couldn’t bring myself to care about.  That’s maybe a little harsh of me, but there you go.
 

@@ -15,21 +15,21 @@ However, since you had not planned to acquire this book, you have no book mark a
 
 Works great as a bookmark, plus, you have easy access to the transit pass slipped in the pages of your book rather than having to dig it out of your purse/pocket/bag every time you need it!
 
-<p align="center"> <img src="\assets\blogimages\daypassbookmark.png" alt="DayPassBookmark"></p>
+![DayPassBookmark](\assets\blogimages\daypassbookmark.png){: .img-center }
 
 
 **2. Post-It notes**
 
 Fun and colourful! The adhesive allows you to remind yourself of the actual section of the page you are at and, as an added bonus, you can use it to write reminders to yourself or notes about your book.
 
-<p align="center"> <img src="\assets\blogimages\Post-it-Notes.jpg" alt="PostIt"></p>
+![PostIt](\assets\blogimages\Post-it-Notes.jpg){: .img-center }
 
 
 **3. Bobby-pins**
 
 I know this one is not ideal, since bobby pins are not exactly flat, but I find them thin enough to not damage the book and easy to slip over a page as a placeholder. Besides, when given the choice between pinning an unruly curl or marking my place in my book, I’ll always chose the latter! ;)
 
-<p align="center"> <img src="\assets\blogimages\bobbypinbookmark.jpg" alt="BobbyPins"></p>
+![BobbyPins](\assets\blogimages\bobbypinbookmark.jpg){: .img-center }
 
 
 <sup>Photo Credit to: [The Thinking Closet](http://www.thinkingcloset.com/){:target="_blank"} – if you’re looking for a fun little art project, check out [this tutorial](http://www.thinkingcloset.com/2013/06/03/color-blocked-bobby-pin-tutorial/){:target="_blank"} on how to make colour-blocked bobby pins!</sup>

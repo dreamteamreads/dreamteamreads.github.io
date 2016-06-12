@@ -29,10 +29,8 @@ The prose is really, very beautiful. I don't normally comment on writing style b
 
 In the copy that I got of the book, there is an interview with Ransom Riggs at the end where he talks about the origins of the photos that are featured throughout the book. Riggs states in this interview that he started collecting vintage snapshots, and realized that the ones with children were always the most intriguing.
 
-<p align="center"> <img src="\assets\blogimages\MissP.png" alt="Cover and book images"></p>
-
-
-<p align="center"><i>Source: Miss Peregrine's Home for Peculiar Children</i></p>
+![Cover and book images](\assets\blogimages\MissP.png){: .img-center }
+*Source: Miss Peregrine's Home for Peculiar Children*{: .img-caption-center }
 
 He began to wonder what their stories were. As it was impossible to find out, he decided to make them up, and this guided his character creation process which then guided the story. He further states that he continued to collect as he was writing, so sometimes he would come across a photo that he really wanted to include and would find a way to work it into the story. In this way, they are very interdependent.
 
