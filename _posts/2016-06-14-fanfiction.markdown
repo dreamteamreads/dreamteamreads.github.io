@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fan Fiction: An author's friend or foe?"
-date: "2016-06-14 16:58:43 -0400"
+date: "2016-06-14 15:01:43 -0400"
 author: Olivia
 catagory: Ramblings
 ---
