@@ -10,7 +10,9 @@ description: >
 email: dreamteamreads@gmail.com
 author: Olivia & Sarah
 avatar: "/assets/avatar.png"
-profile: Two book-loving, wanderlusting, language learning Canadian girls who form one hell of a team. #DreamTeamReads
+profile: |
+  Two book-loving, wanderlusting, language learning Canadian girls who form one hell of a team. &#35;DreamTeamReads. <br />
+  We post Mondays, Wednesdays and Fridays.
 twitter_username: dreamteamreads
 instagram_username: dreamteamreads
 #github_username:  github_username
