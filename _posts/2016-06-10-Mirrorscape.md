@@ -31,7 +31,7 @@ Moreover, Wilks uses his extensive art knowledge to add authenticity to the arti
 
 ## In my Opinion
 
-Mirrorscape is good for what it is, a creative middle-grade adventure story, however young adult readers are sure to find the book two-dimensional. This action-heavy story provides minimal character development; individuals in the novel are mostly present to perform specific roles, they have little real depth. SPOILER: Wren is just there is provide a link to the stash of iconium, Ludo is the traitor without whom the villains would never have caught up with Mel and his group, etc. I wonder how much more powerful the story could have been with more complex characters.
+Mirrorscape is good for what it is, a creative middle-grade adventure story, however young adult readers are sure to find the book two-dimensional. This action-heavy story provides minimal character development; individuals in the novel are mostly present to perform specific roles, they have little real depth. SPOILER: <span class="spoiler">Wren is just there is provide a link to the stash of iconium, Ludo is the traitor without whom the villains would never have caught up with Mel and his group, etc.</span> I wonder how much more powerful the story could have been with more complex characters.
 
 That being said, the plot is captivating enough that it manages to carry the whole story quite successfully. Wilks’ displays of his artistic knowledge in the book – his delicate balance of artistic realness and imaginative plot is commendable.
 
