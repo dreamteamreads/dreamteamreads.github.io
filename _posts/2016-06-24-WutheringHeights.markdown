@@ -10,7 +10,7 @@ bookPublisher: Arcturus Publishing Limited
 bookPages: 272
 bookReleaseDate: 2009
 bookGrade: 3.5
-bookImg: /assets/bookcovers/wutheringheights.jpeg
+bookImg: /assets/Bookcovers/wutheringheights.jpeg
 bookPlot: Wuthering Heights is a wild, passionate story of the intense and almost demonic love between Catherine Earnshaw and Heathcliff, a foundling adopted by Catherine's father. After Mr Earnshaw's death, Heathcliff is bullied and humiliated by Catherine's brother; he leaves Wuthering Heights, only to return years later as a wealthy and polished man and to exact a terrible revenge for his former miseries. <br><sup>Adapted from &#58; GoodReads</sup>
 
 ---
