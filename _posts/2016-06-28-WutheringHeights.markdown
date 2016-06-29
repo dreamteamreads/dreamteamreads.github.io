@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wuthering Heights"
-date: "2016-06-27 21:04:51 -0400"
+date: "2016-06-28 19:04:51 -0400"
 author: Sarah
 catagory: Review
 bookTitle: Wuthering Heights
@@ -57,7 +57,8 @@ i) Revenge is useless!
 SPOILER: <span class="spoiler">Heathcliff goes through all that trouble of destroying Edgar Linton, and in doing so makes everyone affiliated with Edgar also miserable, but does he actually get what he wants? No, because he wants to have been the one to marry Cathy and that’s impossible.</span>
 His whole modus operandi reminded me a bit of that saying by Buddha: “Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.”
 
-![Wuthering Heights Heathcliff](\assets\blogimages\heathcliff_revenge.png){: .img-center }
+![Wuthering Heights Heathcliff](\assets\blogimages\wutheringheightscomic.png){: .img-center }
+*If you liked this comic, check out more literary illustrations by Kate Beaten [here](http://www.forbiddenplanet.co.uk/blog/2011/kate-beaton-wuthering-along/){:target="_blank"}*{: .img-caption-center}
 
 ii) Poisonous people taint those around them.
 
