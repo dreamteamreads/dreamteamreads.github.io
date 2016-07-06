@@ -11,8 +11,7 @@ bookPublisher: Viking, Penguin Group
 bookReleaseDate: 2006
 bookGrade: 4
 bookImg: /assets/Bookcovers/JustListen.jpg
-bookPlot: Last year, Annabel was the girl who has everything, at least that's the part she played in the television commercial for Kopf's Department Store. This year, she's the girl who has nothing. No best friend because mean-but-exciting Sophie dropped her, no peace at home since her older sister became anorexic, and no one to sit with at lunch. Until she meets Owen Armstrong. Tall, dark, and music-obsessed, Owen is a reformed bad boy with a commitment to truth-telling. With Owen's help, maybe Annabel can face what happened the night she and Sophie stopped being friends.
- <br> <sup>Adapted from&#58; GoodReads</sup>
+bookPlot: Last year, Annabel was the girl who has everything, at least that's the part she played in the television commercial for Kopf's Department Store. This year, she's the girl who has nothing. No best friend because mean-but-exciting Sophie dropped her, no peace at home since her older sister became anorexic, and no one to sit with at lunch. Until she meets Owen Armstrong. Tall, dark, and music-obsessed, Owen is a reformed bad boy with a commitment to truth-telling. With Owen's help, maybe Annabel can face what happened the night she and Sophie stopped being friends. <br /> <sup>Adapted from&#58; GoodReads</sup>
 ---
 What seems like a light read quickly reveals that there is more going on with our narrator, Annabel Greene, than she herself is willing to admit. Nevertheless, Sarah Dessen masterfully balances the light and heavy passages in her book, resulting in a quick read that also makes a lasting impact.
 
