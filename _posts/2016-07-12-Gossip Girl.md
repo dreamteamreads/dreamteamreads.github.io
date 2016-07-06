@@ -12,8 +12,7 @@ bookReleaseDate: 2002
 bookSeries: Gossip Girl (Book 1/11)
 bookGrade: 3.5
 bookImg: /assets/Bookcovers/GossipGirl.jpg
-bookPlot: Welcome to New York City’s Upper East Side, where my friends and I live, go to school, play, and sleep—sometimes with each other. S is back from boarding school, and if we aren’t careful, she’s going to win over our teachers, wear that dress we couldn’t fit into, steal our boyfriends’ hearts, and basically ruin our lives in a major way. I’ll be watching closely . . .You know you love me,   Gossip Girl
- <br> <sup>Adapted from&#58; GoodReads</sup>
+bookPlot: Welcome to New York City’s Upper East Side, where my friends and I live, go to school, play, and sleep—sometimes with each other. S is back from boarding school, and if we aren’t careful, she’s going to win over our teachers, wear that dress we couldn’t fit into, steal our boyfriends’ hearts, and basically ruin our lives in a major way. I’ll be watching closely . . .You know you love me,   Gossip Girl <br /> <sup>Adapted from&#58; GoodReads</sup>
 ---
 Gossip Girl is a guilty pleasure book, an ideal lounging-by-the-pool summer read! The partying will make you want to go out & do something fun (which you can since school is out!), the characters quickly feel like people you actually know, and the plot is full of drama – be warned, Gossip Girl is totally addictive!
 
