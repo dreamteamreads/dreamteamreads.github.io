@@ -1,51 +1,48 @@
 ---
 layout: post
-title:  "Gossip Girl"
-date:   2016-07-07 13:25
+title:  "Sanctuary Bay"
+date:   2016-07-21 17:25
 author: Sarah
 catagory: Review
-bookTitle: Gossip Girl
-bookAuthor: Cecily von Ziegesar
-bookPages: 201
-bookPublisher: Little, Brown and Company
-bookReleaseDate: 2002
-bookSeries: Gossip Girl (Book 1/11)
+bookTitle: Sanctuary Bay
+bookAuthor: Laura J. Burns and Melinda Metz
+bookPages: 314
+bookPublisher: St. Martins Griffin
+bookReleaseDate: January 2016
 bookGrade: 3.5
-bookImg: /assets/Bookcovers/GossipGirl.jpg
-bookPlot: Welcome to New York City’s Upper East Side, where my friends and I live, go to school, play, and sleep—sometimes with each other. S is back from boarding school, and if we aren’t careful, she’s going to win over our teachers, wear that dress we couldn’t fit into, steal our boyfriends’ hearts, and basically ruin our lives in a major way. I’ll be watching closely . . .You know you love me, Gossip Girl <br /> <sup>Adapted from&#58; GoodReads</sup>
+bookImg: /assets/Bookcovers/SanctuaryBay.jpg
+bookPlot: When Sarah Merson receives the opportunity of a lifetime to attend the most elite prep school in the country-Sanctuary Bay Academy-it seems almost too good to be true. But, after years of bouncing from foster home to foster home, escaping to its tranquil setting, nestled deep in Swans Island, could not sound more appealing. When her roommate suddenly goes missing, she finds herself in a race against time, not only to find her, but to save herself and discover the dark truth behind Sanctuary Bay's glossy reputation. <br /> <sup>Adapted from&#58; GoodReads</sup>
 ---
-Gossip Girl is a guilty pleasure book, an ideal lounging-by-the-pool summer read! The partying will make you want to go out & do something fun (which you can since school is out!), the characters quickly feel like people you actually know, and the plot is full of drama – be warned, Gossip Girl is totally addictive!
+What starts out as your average “low-income girl in upper-class world” plot line turns out to be much darker and surprising in a good way! The plot frequently changes directions moving from drama to thriller to mystery to action; a good book for when you can’t settle on one genre and want a bit of everything!
 
 <!--more-->
 
 ## Book Breakdown
 
-Suddenly I understand what all the hype was about! Don’t get me wrong, this is not an earth-shattering read, nor is it destined to become a literary classic, but it sure is captivating!
+The first chapter of Sanctuary Bay created an intriguing back-story for the main character, Sarah Merson; a traumatic event from her childhood leaves her an orphan. She moves around to different foster homes and schools, never really fitting in or feeling comfortable, as a result she is distrustful and cautious of everyone, an ideal character trait in someone piecing together a mystery!
 
-The writing is easy to read; not necessarily simplified, but simple enough for your mind to process quickly as you speed through the novel.
+![Sanctuary Bay Quote](\assets\quotes\SantuacryBay_quote.png){: .pull-right .img-responsive .thumbnail}
 
-The innovation of this novel is both in the concept and the format. The idea of a mysterious source spying in on the elite is irresistible - let’s be honest, we’re all curious about that 1% life! But Cecily von Ziegesar really commits to the idea with the GossipGirl.net blog pages inserted into the book. The style and layout of the blog add an element of verisimilitude to the story.
+The first third of the book feels like a regular contemporary novel, with a new girl starting at a special, elite boarding school, hoping to find a place to finally call home. But making friends is easier than Sarah expected, everyone is super friendly, even a bit Stepford-y, making the reader guess there might be more going on. But Sarah is so enthralled by it all that the reader goes along with it too. SPOILER: <span class="spoiler">Sarah’s initiation into the Wolfpack is a clear turning point in the plot, from then on things get darker and darker, and suddenly the reader begins to ask questions such as: what is Blutgrog actually, what’s really going on at Sanctuary Bay, and who can be trusted?</span> The plot moves from light to heavy rapidly and by means of a succession of intense sequences of events that is simultaneously smooth and choppy, almost like Burns and Metz are guiding the readers down stairs with cycles of sudden drops and short plateaus.
 
-![Gossip Girl Quote](\assets\quotes\GossipGirl_quote.png){: .pull-right .img-responsive .thumbnail}
-
-The narrative voice is also well chosen. Most of the time, the reader forgets that the narrator is the anonymous blogger, but every now and again, von Ziegesar reminds us by adding in a side comment that refers to the blog or information therefrom.
-
-Though there are a number of characters introduced in this book, they are presented in a palatable way. From the beginning, during the party at the Waldorfs’, readers became familiar with most of the main characters and understand their dynamic enough to follow the story without feeling confused.
+Although this book is not currently part of a series, it ends with such a cliffhanger and so many questions that I feel quite confident that the authors will write a follow-up novel in the near future!
 
 
 ## In my Opinion
 
-I was skeptical about this series, based on what I knew of the plot, that was basically a gossip column of a bunch of upper class New York teens, I had written it off as unexceptional. While I stand by my assumption about the plot, I was impressed by the enticing structure of the novel, oscillating between narrative and blog posts, and at times, showing the influence of the blog posts on the narrative and vice versa.
+I loved that this book surprised me! The tone and mood changed many times, the plot shifted genres from a high school drama to a thriller-mystery. These shifts helped the story feel more complex; the first part was background, the second was the intrigue, and the third was all about finding answers. Sanctuary Bay is well planned and fittingly paced.
 
-I was pleasantly surprised by the characters; specifically by how quickly they began to feel like acquaintances, people I actually knew. Von Ziegesar has created quite defined characters, I’m curious to see how they continue to evolve and become more complicated – moving beyond the simple two-dimensional personality perfect for a series debut. The characters largely carry this novel; conflicted Nate, inconsiderate Chuck, vindictive Blair, and, as far as I can tell, innocent Serena. I know it’s early to make claims, especially considering how long the series is and how much can change, but right now, it seem to me that Chuck and Blair are better suited to each other than Blair and Nate; both have a bit of a mean streak and are clearly ambitious, compared to the more feeble personalities of Nate and Serena who both seem a bit lost in this book, and seem to have an undeniable chemistry – Serena + Nate = <3. Serena is a bit of a mystery to me right now, SPOILER: <span class="spoiler">the blogger portrayed her as a monster and Blair is nothing but mean to her for no apparent reason (I mean yeah, Serena slept with Nate, but Blair doesn’t know that, so that can’t be why she’s mad).</span> So far, Serena seems quite sweet, although, maybe I’m being duped…
+Giving Sarah superior memory abilities, a photographic memory and hyperthymesia, made for some very vivid descriptions throughout the novel, especially regarding the sensations resulting from the consumption of Blutgrog. Furthermore, her overactive imagination (linked perhaps to her ability to recall instances of intense emotion) made the creepy moments around the middle of the novel so much creepier in a great way!
 
-I suppose I’ll have to read the next book to find out! And read it I will, I actually picked up You Know You Love Me (Gossip Girl, book 2) from the library already!
+Some of the plot points were quite transparent: SPOILER: <span class="spoiler">that the Blutgrog was a drug was obvious, as was the motivation of Fortitude, mind-control over the most powerful individuals in the country,</span> but there were also neat surprises, SPOILER: <span class="spoiler">like how Sarah was confused between reality and dreams for a while, Dr. Diaz’s role, and how Sarah unwittingly discovered how suggestible those under the influence of bromcyan are.</span> Also, every time a problem seemed solved, there was another roadblock, to the point that there was basically non-stop action at the end, super engrossing!
+
+I did not appreciate the ending for a couple reasons. First, readers clue in from the start that Merson is not Sarah’s real last name, however her real name is only revealed at the very end, and actually provides no clarify to the reader regarding why it was changed. With everything coming to an end so quickly, the end of the novel is chaotic and a bit disorienting. In fact, the end brings up more questions than answers, especially about Sarah, SPOILER: <span class="spoiler">who is her father, what did he do, how will she find him?</span> Burns and Metz left the novel in a total cliffhanger; it’s almost as though they brainstormed the sequel and tried to put as much bait for book two into the last pages of book 1 as possible – a cheap trick that I hate as a reader.
 
 
 ## What I Learned
 
-Initially, I thought this book didn’t have much to teach me, which was part of the point, it was just supposed to be a fun, superficial summer read. But then I realized that something deeper can in fact be extrapolated.
+After reading Sanctuary Bay, I was curious about Sarah’s two memory conditions: eidetic memory and hyperthymesia.
 
-Gossip Girl delivers a message about the power of the media. The GossipGirl.net blog is an integral part of the plot and we can see first hand the influence of this open source of information that gets quoted in the daily lives of the characters as fact without a second thought. It’s important to remember that just because something is published doesn't necessarily make it true…
+I’d heard of an eidetic memory, or a photographic memory, the ability to recall whatever one sees – what an amazing ability! Apparently only about 1% of people have this gift. Want to know if you’ve got a photographic memory? I found an online test through the Open University that you can take, it requires about 8 minutes of your time, check it out [here](http://www.open.edu/openlearn/body-mind/psychology/take-the-photographic-memory-test){:target="_blank"}!
 
-On a similar same note, the anonymity of Gossip Girl also brings up an interesting point, this character is revealing information from the “safety” of anonymity; when no one knows who you are there is less accountability. Gossip Girl is not worried about being called out on incorrect information, quite the opposite; Gossip Girl boldly makes numerous statements, assumptions and insinuations. Makes me wonder; would Gossip Girl be so bold as to publish the same content under their real name?
+Hyperthymesia, or highly superior autobiographical memory (HSAM), is equally real, and maybe a bit rarer for being more recently brought to light. Essentially is allows a person to recall everything about their past in a very vivid way, making the past feel like the present, which I think Burns and Metz capture well in their novel!
