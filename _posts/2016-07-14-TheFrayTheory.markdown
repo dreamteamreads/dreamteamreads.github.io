@@ -22,7 +22,7 @@ Let’s start with the good.
 
 ## The Good
 
-The premise behind this book is one of the most original ones I have seen in a long time. Without going into too many details or handing out spoilers, it deals with the idea of Alternate Universes and Realities. The concept is explained at length throughout the novel, and has just the right amount of sci-fi edge without being too hard core. It is clear that Keramati spent a lot of time fleshing out this idea, and she had the background to do it, having studied Cognitive Neuroscience for 6 years at the University of British Columbia.
+The premise behind this book is one of the most original ones I have seen in a long time. Without going into too many details or handing out spoilers, it deals with the idea of Alternate Universes and Realities. The concept is explained at length throughout the novel, and has just the right amount of sci-fi edge without being too hard core. It is clear that Keramati spent a lot of time fleshing out this idea, and she had the background to do it, having studied Cognitive Neuroscience for 2 years at the University of British Columbia, plus another 2 years of psychology on top of that.
 
 Which brings me to the second thing I loved about this novel. IT IS SO CANADIAN.
 
