@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fray Theory: Resonance"
-date: "2016-07-14 12:59:51 -0400"
+date: "2016-07-14 08:15:51 -0400"
 author: Olivia
 catagory: Review
 bookTitle: The Fray Theory Resonance
