@@ -4,7 +4,6 @@ title: "When Life gives you all lemons and no reading time."
 date: "2016-07-12 10:35:24 -0400"
 author: Olivia
 catagory: Ramblings
-bookPages: 332
 ---
 How do I make sure to make time for reading in my day to day life?
 
