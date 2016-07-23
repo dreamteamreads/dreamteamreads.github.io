@@ -30,7 +30,7 @@ I also need to mention one of my favourite sections. CANDLES! There is a huge se
 
 ![Candle Section](\assets\blogimages\candlessmall.png){: .img-center }
 
-![Piano](\assets\blogimages\smpianoos.png){: .pull-left .img-responsive .thumbnail}
+![Piano](\assets\blogimages\smpianoos.png){: .pull-left .img-responsive .thumbnail .img-padding}
 
 There are two floors and the books that I am most excited about (YALitFTW!) are located on the second floor. Also located on the second floor is this beautiful blue piano. Sarah and I took the opportunity to play a jingle or two, and were very promptly shown up by a 7-year-old. Lesson learned. No more trying to be fancy. And yes, Sarah and I were wearing the same cardigan that day. Dream Team strikes again!
 
