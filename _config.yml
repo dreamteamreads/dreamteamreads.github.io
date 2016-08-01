@@ -25,6 +25,14 @@ gems:
  - jekyll-gist
 # - jemoji
 
+exclude:
+    - config.ru
+    - Gemfile
+    - Gemfile.lock
+    - vendor
+    - Procfile
+    - Rakefile
+
 # Build settings
 paginate: 5
 paginate_path: "page:num"
