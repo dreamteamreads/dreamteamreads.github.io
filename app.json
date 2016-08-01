@@ -1,0 +1,18 @@
+{
+  "name": "dreamteamreads.github.io",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "http://github.com/mattmanning/heroku-buildpack-ruby-jekyll.git"
+    }
+  ]
+}
