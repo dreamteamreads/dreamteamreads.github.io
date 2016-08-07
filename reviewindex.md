@@ -23,6 +23,8 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 ## F
 [Fangirl - Rainbow Rowell](http://dreamteamreads.com/2016/06/22/Fangirl/)
 
+[The Fray Theory - Nelou Keramati](http://dreamteamreads.com/2016/07/14/TheFrayTheory/)
+
 ## G
 [Gossip Girl - Cecily von Zeigesar (Gossip Girl Series ; Book 1)](http://dreamteamreads.com/2016/07/07/Gossip-Girl/)
 
@@ -55,10 +57,14 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 [Ripper - Amy Carol Reeves (Ripper Series ; Book 1)](http://dreamteamreads.com/2016/06/20/Ripper/)
 
 ## S
+[Sanctuary Bay - Laura J. Burns & Melinda Metz](http://dreamteamreads.com/2016/07/19/SanctuaryBay/)
+
 [Sanctum - Sarah Fine (Guards of the Shadowland Series ; Book 1)](http://dreamteamreads.com/2016/06/17/sanctum/)
 
 ## T
 [Tempestuous - Lesley Livingston (Wondrous Strange ; Book 3)](http://dreamteamreads.com/2016/06/06/Tempestuous/)
+
+[A Totally Awkward Love Story - Tom Ellen and Lycy Ivison](http://dreamteamreads.com/2016/08/02/ATotallyAwkwardLoveStory/)
 
 ## U
 
