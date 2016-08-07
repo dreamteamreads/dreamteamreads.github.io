@@ -43,9 +43,9 @@ Kate on the other hand is constantly trying to prove herself to her father. She 
 
 Harker's North City seems clean, orderly, safe. They have a working subway system, schools, gardens and forests. South City, by comparison, is a wasteland of military type buildings and needs vs. wants. There is no pretense in South City, but neither is there any luxury. So the question that I find very interesting is the better of two evils? The place that is genuinely unsafe, riddled with military and clawing for life or the place that is glittering in false safety?
 
-### Can we really control our monsters?
+### Who really wields the power?
 
-The monsters of Verity are split between the two sides of the city, with the majority being "under Harker's control" un in North City. However, as we see throughout the novel, this control is not as total as the citizens would like to believe. I really like the idea of this being a metaphor for our own monsters. We can try to make peace with ourselves, try to push all the bad away, but are we ever truly successful? Can anyone really tame all of their inner demons?
+The monsters of Verity are split between the two sides of the city, with the majority being "under Harker's control" up in North City. However, as we see throughout the novel, this control is not as total as the citizens would like to believe. Power is fleeting and having total power is near impossible. Harker gets closer than most, but there comes a time when you are too comfortable with your position and you start to lose the threads of it all.
 
 ![Power is fleeting](\assets\gifs\power.gif){: .img-center }
 
