@@ -8,7 +8,7 @@ bookTitle: Ths Savage Song
 bookPages: 464
 bookAuthor: Victoria Schwab
 bookPublisher: Greenwillow Books
-bookReleaseDate: Juny 2016
+bookReleaseDate: July 2016
 bookGrade: 4
 bookSeries: Monsters of Verity (1/2)
 bookImg: \assets\Bookcovers\ThisSavageSong.jpg
