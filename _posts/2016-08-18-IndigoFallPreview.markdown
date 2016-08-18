@@ -7,7 +7,7 @@ catagory: Ramblings
 ---
 Last night I had the opportunity to visit the Chapters Indigo Headquarters here in Toronto for their Fall YA Book Preview. I’d never been to a book preview before this, so I didn’t really know what to expect, but OHMYGOD IT WAS BEAUTIFUL.
 
-![Soon to be released](\assets\blogimages\fallpreview\mug display.png){: .img-center }
+![Soon to be released](\assets\blogimages\fallpreview\mugDisplay.png){: .img-center }
 *Some of the books above were actually already released books with the dust covers of the new releases on them. That's how careful they need to be with some of the upcoming releases.*{: .img-caption-center}
 
 <!--more-->
