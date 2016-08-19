@@ -55,6 +55,7 @@ Below you will find an index of all the books that we have reviewed sorted by ti
 
 ## R
 [Red Queen - Victoria Aveyard (Red Queen Series ; Book 1)](http://dreamteamreads.com/2016/08/16/RedQueen/)
+
 [Ripper - Amy Carol Reeves (Ripper Series ; Book 1)](http://dreamteamreads.com/2016/06/20/Ripper/)
 
 ## S
