@@ -8,22 +8,22 @@ catagory: Ramblings
 Last night I had the opportunity to visit the Chapters Indigo Headquarters here in Toronto for their Fall YA Book Preview. I’d never been to a book preview before this, so I didn’t really know what to expect, but OHMYGOD IT WAS BEAUTIFUL.
 
 ![Soon to be released](\assets\blogimages\fallpreview\mugDisplay.png){: .img-center }
-*Some of the books above were actually already released books with the dust covers of the new releases on them. That's how careful they need to be with some of the upcoming releases.*{: .img-caption-center}
+*Because of how careful they have to be with some upcoming releases, some of the novels pictured above were actually just books playing dress up with a dust cover. I guess you can never be too careful!*{: .img-caption-center}
 
 <!--more-->
 
-You’re probably wondering how I ended up there (I kept asking that myself actually). These events, I’d always thought, were reserved for veteran/well-known bloggers and promoters. Well, it turns out that I was wrong. Indigo posted about this event on Twitter a couple weeks ago and opened up tickets to the general public. I saw the post a little late, so by the time I went to the Eventbrite page, they were all gone. Not one to give up so easily, I sent a message to the team at IndigoTeen on Twitter asking if there was a waitlist and wham, bam, thank you m’am, I was on it! I followed up once or twice and on Monday, I got a message saying that a spot opened up! I sent them my email and that was it! I was on the list! Lesson to be learned here: Always ask (except when it comes to pregnancy. Never ask someone if they're pregnant. Even if they look like they swallowed a watermelon. It's just a bad idea).
+You’re probably wondering how I ended up there (I kept asking that myself actually). These events, I’d always thought, were reserved for veteran/well-known bloggers and promoters. Well, it turns out that I was wrong. Indigo posted about this event on Twitter a couple weeks ago and opened up tickets to the general public. I saw the post a little late, so by the time I went to the Eventbrite page, they were all gone. Not one to give up so easily, I sent a message to the team at IndigoTeen on Twitter asking if there was a waitlist and wham, bam, thank you m’am, I was on it! I followed up once or twice and on Monday, I got a message saying that a spot opened up! There may have been some jumping up and down. On my couch. Lesson to be learned here: Always ask!
 
 ## First Impression
 
 ![Candy Bar](\assets\blogimages\fallpreview\candybar.png){: .pull-right .img-responsive .thumbnail .img-padding}
-When we first arrived, there was a long table with bags full of books on each chair. On the bar beside the table, they had pizza and a candy bar set up so that everyone could refuel before the presentation started. It was very cool to be surrounded by so many people who are just as into YA as I am, and I recognized a couple faces/twitter handles.
+When we first arrived, there was a long table with bags full of books sitting on each chair. On the bar beside the table, they had pizza and a candy bar set up so that everyone could refuel before the presentation started. One of the things that Indigo does very well is staging. Their stores are always so beautifully put together, and the room set up here was no exception. I only regret that I didn't take photos of the room (If you go through the #IndigoBookPreview on Twitter, you might find some).
 
-We all sat down and the presentation began. We went through some big fall releases, talked about the feedback that these books were getting, what the stories were about, who they might appeal to, etc. Then on break, some took pictures in the photo booth, and we had the chance to meet everyone else in the room.
+We all sat down and the presentation began. It was very cool to be surrounded by so many people who are just as into YA as I am, and I even recognized a couple faces/twitter handles. We went through some big fall releases, talked about the feedback that these books were getting, what the stories were about, who they might appeal to, etc. Then on break, some took pictures in the photo booth, and we had the chance to meet everyone else in the room.
 
 There was also a surprise in store for us.
 
-Author E.K. Johnston decided to stop by and jumped in to help present the fall releases. She. Was. Hilarious. She also spoke to us a little about her upcoming fall releases (Including Star Wars: Ahsoka!). She was also kind enough to bring some ARCs of her upcoming winter release, Spindle, which she signed for us all. (It is currently sitting very near the top of my tbr pile).
+Author E.K. Johnston decided to stop by and jumped in to help present the fall releases. She. Was. Hilarious. She spoke to us about her own fall releases (Including Star Wars: Ahsoka!). She was also kind enough to bring some ARCs of her winter release, Spindle, which she signed for us all and definitely sold me on. It now sits very high on my TBR pile (see below).
 
 ![Spindle Cover](\assets\blogimages\fallpreview\spindleclosed.png){: .img-center .img-responsive .thumbnail} | ![Spindle inside](\assets\blogimages\fallpreview\spindleopen.png){: .img-center .img-responsive .thumbnail}
 
@@ -32,13 +32,13 @@ At the end of the presentation came probably one of the most exciting parts. On 
 ![The Sun is Also a Star](\assets\blogimages\fallpreview\sunstar.png){: .img-center } | ![The Thousandth Floor](\assets\blogimages\fallpreview\thethousandthfloor.png){: .img-center } | ![Swan Rider](\assets\blogimages\fallpreview\swanrider.png){: .img-center }
  | **The Thousandth Floor!!**{: .img-caption-center} |
 
-That's right! The book I've been drooling allll over on social media. Though I will still definitely be buying the hardcover when it comes out (because hello have you seen that cover design. It is beautiful. Gatsby meets High Rise.), but now I will get to read it before it comes out on the 30th!
+That's right! The book I've been drooling allll over on social media. Though I will still definitely buy the hardcover when it comes out (because hello have you seen that cover design?! It is beautiful. Gatsby meets High Rise.), I am excited about being able to read it before it comes out on the 30th!
 
 This brings me to the next thing I want to talk about.
 
 ## My most anticipated Fall 2016 releases
 
-After last night, there are 5 novels that I plan to dig into over the next few weeks, all that will be released over the next few months. So to finish off this post, I'm going to talk about the five books I can't wait to read!
+After last night, there are 5 novels that I plan to jump into over the next few weeks, all that will be released in the next few months. So to finish off this post, I'm going to talk about the five books that I can't wait to read!
 
 ![My to be read pile](\assets\blogimages\fallpreview\onetwothree.gif){: .img-center }
 
