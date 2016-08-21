@@ -48,25 +48,22 @@ pre code {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
-    margin: 10pt auto;
-	background: #FFF;
+  margin: 10pt auto;
+	//background: #FFF;
 
 	td, th {
-		border: 1px solid #CCC;
+		//border: 1px solid #CCC;
 		padding: 5px 15px;
 		margin: 0;
 	}
 
 	th {
-		border-color: #555;
-		background: #555;
+		//border-color: #555;
+		//background: #555;
 		color: #eee;
 		font-weight:normal;
 	}
 
-	tr:hover {
-		background: rgba(255,255,0,0.2);
-	}
 }
 
 h1,h2,h3,h4,h5,h6{
